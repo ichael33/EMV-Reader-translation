@@ -1,4 +1,4 @@
-# EMV-Reader-translation
+omarchahen@rommiui.com# EMV-Reader-translation
 Please help us to fix issues, with translation in the mobile Application credit card reader EMV
 
 Simply edit the files string.xml in the correct folder corresponding to your language:
